@@ -1,5 +1,8 @@
 # File icons for the Ranger file manager
 
+This is a fork for [alexanderjeurissen/ranger-devicons](https://github.com/alexanderjeurissen/ranger_devicons).
+I edited some icons and added some space between the icon and the text
+
 This plugin introduces a new linemode that prefixes file names with a file icon
 
 ![image](screenshot.png)

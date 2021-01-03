@@ -9,4 +9,4 @@ class DevIconsLinemode(LinemodeBase):
   uses_metadata = False
 
   def filetitle(self, file, metadata):
-    return devicon(file) + ' ' + file.relative_path
+    return devicon(file) + '  ' + file.relative_path
