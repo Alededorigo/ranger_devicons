@@ -16,8 +16,8 @@ screenshot), this and other NERDfonts and the install instructions for these fon
 the following repository: https://github.com/ryanoasis/nerd-fonts
 
 You can use [FontAwesome](https://fontawesome.com/v4.7.0/cheatsheet/), simply install it in your computer.
-On Ubuntu you can install it with ```sh sudo apt install font-font-awesome ```
-On Arch you can install it with ```sh sudo pacman -S ttf-font-awesome ```
+On Ubuntu you can install it with ``` sudo apt install font-font-awesome ```
+On Arch you can install it with ``` sudo pacman -S ttf-font-awesome ```
 
 ## Install instructions
 Ranger has added support for loading directories in the plugins folder which makes it easier to install and keep plugins updated.
