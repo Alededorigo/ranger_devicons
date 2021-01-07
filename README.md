@@ -15,7 +15,7 @@ I personally use the Source Code Pro patched NERDfont(this is also the font disp
 screenshot), this and other NERDfonts and the install instructions for these fonts can be found in
 the following repository: https://github.com/ryanoasis/nerd-fonts
 
-You can use [FontAwesome](https://fontawesome.com/v4.7.0/cheatsheet/), simply install it in your computer.
+Also you can use [FontAwesome](https://fontawesome.com/v4.7.0/cheatsheet/), simply install it in your computer.
 On Ubuntu you can install it with ``` sudo apt install font-font-awesome ```
 On Arch you can install it with ``` sudo pacman -S ttf-font-awesome ```
 
