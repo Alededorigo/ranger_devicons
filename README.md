@@ -3,7 +3,7 @@
 This is a fork for [alexanderjeurissen/ranger-devicons](https://github.com/alexanderjeurissen/ranger_devicons).
 I added:
 * Some space between the icons and the file/directory;
-* Some icons for many extenson.
+* Some icons for many extensions.
 
 This plugin introduces a new linemode that prefixes file names with a file icon
 
